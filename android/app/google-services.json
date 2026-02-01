@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "149609852776",
+    "project_id": "opticart-c847b",
+    "storage_bucket": "opticart-c847b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149609852776:android:b485f1e32a6ac84de030dd",
+        "android_client_info": {
+          "package_name": "com.company.opticart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149609852776-sdcb4kgdvuen7e6ecdf2g6gh03ck7dsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.opticart",
+            "certificate_hash": "1297f74191d9c74b364946374b34e5adb73a2d75"
+          }
+        },
+        {
+          "client_id": "149609852776-lctk79e75njj27i2n6kh0pji0dj5ldlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9zRX2cGRWJGKFpO-W_QVXWUDj40Ff-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149609852776-lctk79e75njj27i2n6kh0pji0dj5ldlj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149609852776-ts42mvr8ckepvijleo58hlhavh7v6n13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.opticart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149609852776:android:1a130d2671d161b7e030dd",
+        "android_client_info": {
+          "package_name": "com.example.opticart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149609852776-lctk79e75njj27i2n6kh0pji0dj5ldlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9zRX2cGRWJGKFpO-W_QVXWUDj40Ff-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149609852776-lctk79e75njj27i2n6kh0pji0dj5ldlj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149609852776-ts42mvr8ckepvijleo58hlhavh7v6n13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.opticart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
